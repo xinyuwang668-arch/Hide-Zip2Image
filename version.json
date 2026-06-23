@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.8.5",
+  "latest_version": "2.8.6",
   "download_url": "https://github.com/xinyuwang668-arch/Hide-Zip2Image/releases/latest",
-  "message": "添加自检更新模块。"
+  "message": "打开软件 3 秒后自动检查，拖拽后自动识别类型，默认 zip，可以根据检测到的格式自动保存成 .zip / .rar / .7z。"
 }
