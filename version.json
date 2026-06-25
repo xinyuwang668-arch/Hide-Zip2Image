@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.9.1",
+  "latest_version": "2.9.3",
   "download_url": "https://github.com/xinyuwang668-arch/Hide-Zip2Image/releases/latest",
-  "message": "新增：多线程处理，隐藏/提取/批量隐藏时界面不会假死，底部进度条，状态文字，处理中自动禁用按钮，隐藏/提取/批量隐藏记录耗时和速度，大文件按块写入，不再一次性全读进内存"
+  "message": "新增：支持在隐藏前对压缩包进行 AES-256 加密，可设置密码与确认密码"
 }
