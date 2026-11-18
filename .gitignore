@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+installer_output/
+shots/
+*.log
+settings.json.bak
+.part
+HideZipImage.log

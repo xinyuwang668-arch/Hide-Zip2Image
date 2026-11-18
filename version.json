@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.9.3",
+  "latest_version": "3.1.0",
   "download_url": "https://github.com/xinyuwang668-arch/Hide-Zip2Image/releases/latest",
-  "message": "新增：支持在隐藏前对压缩包进行 AES-256 加密，可设置密码与确认密码"
+  "message": "V3.1.0 全新界面：侧边栏 + 卡片布局、批量隐藏、拖拽到窗口任意位置、完成后 SHA-256 校验。修复了检测失败后按钮永久卡死、输出路径填成源文件时静默损坏原文件、大文件检测吃满内存、检查更新卡住界面等问题。"
 }

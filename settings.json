@@ -1,9 +1,19 @@
 {
-    "auto_check_update": true,
-    "auto_open_folder": true,
-    "auto_overwrite": false,
-    "remember_window": true,
-    "remember_theme": true,
-    "theme": "蓝色",
-    "output_mode": "same_folder"
+  "auto_check_update": true,
+  "auto_open_folder": false,
+  "auto_overwrite": false,
+  "remember_window": true,
+  "remember_theme": true,
+  "theme": "蓝色",
+  "appearance_mode": "dark",
+  "output_mode": "same_folder",
+  "default_output_dir": "",
+  "last_output_dir": "",
+  "last_image_dir": "",
+  "last_archive_dir": "",
+  "window_geometry": "1180x780",
+  "auto_save_log": false,
+  "max_log_lines": 1000,
+  "verify_after_hide": true,
+  "confirm_close_while_busy": true
 }
